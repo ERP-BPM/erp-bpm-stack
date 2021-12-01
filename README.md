@@ -6,7 +6,7 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
 ## Description
 
-This repositorie contains the configurations to deploy the microservices within the AWS platform (Lambda).
+This repository contains the configurations to deploy the microservices within the AWS platform (Lambda).
 
 ## Useful commands
 
